@@ -1,2 +1,2 @@
 # Project1
-Python project.
+Python project to check whether the number entered is in fibonacci Series or not.
